@@ -1,9 +1,10 @@
 import './App.css'
+import WorldMap from './component/maps/WorldMap'
 
 function App() {
     return (
         <>
-            <h1>Hello, world!</h1>
+            <WorldMap />
         </>
     )
 }
